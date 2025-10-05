@@ -334,6 +334,10 @@ height: 35.35px;
     color: #ffffff;
     border: none;
 }
+.membership button:hover{
+    background: #8f7f9b;
+    cursor: pointer;
+}
 
 .FAQS-container{
     padding: 30px 40px;
