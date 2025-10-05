@@ -51,7 +51,7 @@ nav ul li a {
 
 nav ul li a:hover {
     color: #ddd;
-    text-decoration: green  underline;
+    text-decoration: rgb(23, 25, 23)  underline;
     text-decoration-thickness: 2px;
     transition: all 0.3s ease-out linear;
 }
@@ -98,7 +98,8 @@ nav ul li a:hover {
     
 }
 .Homeschool button:hover{
-    background: #c48ead;
+    background: #8f7f9b;
+    cursor: pointer;
 }
 .learn-from-pros{
     display: flex;
